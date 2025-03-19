@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "S I M M Raton Mondol's Homepage"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "S I M M Raton Mondol"
 description              : &description "personal description"
@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "S I M M Raton Mondol"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Researcher"
   location         : "South Korea"
   employer         : "Inha University"
   uri              : # URL

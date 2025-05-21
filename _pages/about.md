@@ -1,7 +1,10 @@
 ---
-layout: page
-title: "About Me"
-permalink: /about/
+permalink: /
+title: "Hello there, I'm SIMM!"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
 I am a **Postdoctoral Researcher** at the Information and Electronics Joint Research Institute, Inha University. I hold a Ph.D. in Electrical and Computer Engineering, with a specialization in **biomedical informatics**, **speech processing**, and **AI/ML for healthcare** applications.

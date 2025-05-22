@@ -17,6 +17,6 @@ I have published in leading journals and conferences in the field and contribute
 - **Speech Tools**: Whisper, Wav2Vec 2.0, COVAREP, Praat
 - **Languages**: Python, MATLAB
 
-Check out my [CV](../files/Mondol_CV.pdf), [publications](../publications/), or [GitHub projects](https://github.com/simmraton) to learn more about my work.
+Check out my [CV](../files/Mondol_CV_github.pdf), [publications](../publications/), or [GitHub projects](https://github.com/simmraton) to learn more about my work.
 
 ---

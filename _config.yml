@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Mondol's Homepage"
+title                    : "SIMM's Homepage"
 title_separator          : "-"
 name                     : &name "S I M M Raton Mondol"
 description              : &description "personal description"
